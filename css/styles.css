@@ -386,6 +386,9 @@ tr:nth-child(even) {
   #restaurants-list {
     padding-top: 50px;
   }
+.inside #map-container{
+	height: 229px;	
+}
 #restaurant-name{
 	color:#850000;
 }
@@ -421,6 +424,9 @@ tr:nth-child(even) {
     width: 90%;
     margin: 1% auto;
   }
+#reviews-list li{
+    width: 95%;
+}
   #reviews-list li p {
     font-size: 20px;
   }
