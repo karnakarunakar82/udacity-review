@@ -431,7 +431,7 @@ tr:nth-child(even) {
   #restaurants-list li {
     background-color: #ddd;
     list-style: outside none none;
-    width: %;
+    width:45%;
     margin: 1% auto;
     padding: 30px 15px 60px;
     text-align: center;
